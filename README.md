@@ -1,7 +1,7 @@
 ### Hello World! I'm Gabriela Rodrigues
 - 📚 Estudando Desenvolvimento de Sistemas
 - 🤔 Estou a procura de estágio em empresas de tecnologia.
-- 📌 Em busca constante pelo Aprendizado e Especialização.
+- 📌 Em busca de desafios e aprendizados.
 
 
 <div>
