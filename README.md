@@ -13,7 +13,7 @@
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/d5da0d90bca92a6888f72b68af3aff16.gif" align="right" height="180" border="0" alt="https://picasion.com/" /></a><br 
+  <a href="https://picasion.com/"><img src="https://picasion.com/][IMG]https://i.picasion.com/pic91/" align="right" height="180" border="0" alt="https://picasion.com/" /></a><br 
 </div>
   
   ##
